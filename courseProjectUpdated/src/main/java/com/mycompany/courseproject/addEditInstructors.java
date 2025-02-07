@@ -11,7 +11,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Beboe
+ * @author Bahaa
  */
 public class addEditInstructors extends javax.swing.JFrame {
 
